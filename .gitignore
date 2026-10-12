@@ -1,0 +1,11 @@
+# Derleyici çıktıları
+*.exe
+*.obj
+*.o
+*.out
+
+# VS Code kullanıcıya özel ayarlar
+.vscode/
+
+# Geçici çalışma dosyaları
+*.tmp
